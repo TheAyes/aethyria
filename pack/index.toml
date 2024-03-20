@@ -1,0 +1,94 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "869c445204039b6746c4ccad8243efce9a69e6732fef2baca52bc50fcf27be8b"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "7eee167b445234b23b5bbad0c96222aac6a4dfae7b2af188b0f5618c69d5a44d"
+
+[[files]]
+file = "config/origins_server.json"
+hash = "02ca216fe0612108a47188ec747b76357315f3186699653063cddf965c33929a"
+
+[[files]]
+file = "config/pal.properties"
+hash = "b011ec7a308d6e909768eb632976949fe66ad0f7c0aa236541af1be0c8561c1d"
+
+[[files]]
+file = "config/power_config.json5"
+hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
+
+[[files]]
+file = "config/quilt-loader.txt"
+hash = "5fcdeb8076960500aa9575a74a7ef6f8756d0c6a4c173640547d4a3926650803"
+
+[[files]]
+file = "config/quilt/qsl/registry.toml"
+hash = "77911d9f201ecb0eecb3ba0394855983386094e45e3794ad74f6d74985a6d2ec"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "8a25b9833ad536b08c6c3bd0f2eab8d5d680b0bd18fb9bd3206d47c6f464e5ba"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d42acbade20a83ebd7faac05fbe979730a40a170e7ea6e31e126d2517bbb33dd"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/nmuk.pw.toml"
+hash = "bf90fb21fcd2f9ea1f8b6b9abdd489e3fa56cb706602ea37741234630efd56ad"
+metafile = true
+
+[[files]]
+file = "mods/origins-extra-keybinds-fabric.pw.toml"
+hash = "7806898bdc3d3fb6fad6d088627cefb2842ae49a882ea099989bc7793b0924a0"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "resourcepacks/BoZo.s.Animations.v1.0.0.zip"
+hash = "5a8fce4510950a2708a38d3b00d6d7899d7ab2205fe26de7ee83880e2834204e"
+
+[[files]]
+file = "resourcepacks/bozos-animations.toml"
+hash = "fe475452168906966b1cc6a8deffd1adf70df0597ebbceb4b6e4e2a37e77335f"
